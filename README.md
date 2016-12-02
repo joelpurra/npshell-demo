@@ -50,4 +50,4 @@ cat "steps.sh" | keystroke-animator
 
 ---
 
-Copyright (c) 2015 [Joel Purra](http://joelpurra.com/). Released under [GNU General Public License version 3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
+Copyright (c) 2015 [Joel Purra](https://joelpurra.com/). Released under [GNU General Public License version 3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
