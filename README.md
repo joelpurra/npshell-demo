@@ -43,7 +43,7 @@ cat "steps.sh" | keystroke-animator
 
 ## Kudos
 
-- [Elisabeth Nilsson](http://www.grisenskriker.se/) and [Måns Jonasson](http://mansjonasson.se/) for a broad album selection.
+- [Elisabeth Nilsson](https://www.grisenskriker.se/) and [Måns Jonasson](https://mansjonasson.se/) for a broad album selection.
 - [Wikipedia](https://www.wikipedia.org/) for track listings.
 
 
